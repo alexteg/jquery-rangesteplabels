@@ -1,0 +1,23 @@
+.rangesteplabels {
+	position: relative;
+	padding-left: 0;
+	list-style: none;
+	width: 100%;
+	height: 20px;
+}
+
+.rangesteplabels.rangesteplabels-top {
+	margin-bottom: 10px;
+}
+
+.rangesteplabels.rangesteplabels-bottom {
+	margin-top: 10px;
+}
+
+.rangesteplabels li {
+	position: absolute;
+	text-align: center;
+	font-weight: bold;
+	font-size: 10px;
+	white-space: nowrap;
+}
